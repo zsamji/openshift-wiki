@@ -59,7 +59,7 @@ Client provisioning requests will be reviewed and handled during normal business
 
 ### Getting Help
 
-SSO support is currently available through the previously mentioned [RocketChat](https://chat.developer.gov.bc.ca/home) on the channel called "#sso".
+SSO support is currently available through the previously mentioned [RocketChat](https://chat.developer.gov.bc.ca/channel/sso) on the channel called "#sso".
 
 ## What Does it Cost?
 
@@ -69,7 +69,7 @@ This SSO solution is an open-source solution with no associated costs.
 
 SSO only interfaces with other BC Government services to provide authentication via IDIR, BCeID or (potentially) other IDPs. These services are separately managed by dedicated identity provider (IDP) teams. For these services contact support via the standard BC Government 7-7000 support channel.
 
-[RocketChat](https://chat.developer.gov.bc.ca/home) (#sso channel) is the primary mode of communication as related to the SSO solution. Use this channel to engage the community for best practices, configuration and troubleshooting questions.
+[RocketChat - sso channel](https://chat.developer.gov.bc.ca/channel/sso) is the primary mode of communication as related to the SSO solution. Use this channel to engage the community for best practices, configuration and troubleshooting questions.
 
 For cluster-wide service notifications that may impact SSO monitor the **#devops-alerts** channels in [RocketChat](https://chat.developer.gov.bc.ca/channel/devops-alerts).
 
@@ -93,7 +93,8 @@ Further, if the change is more significant a Technical Information Bulletins (TI
 
 ### Service Level
 
-This service is available 24/7 with best efforts support, during business hours only, to restart failed systems and address open issues. 
+This service is available 24/7. We address Q&A's during regular business hours, from 8:30 am to 4:30 pm, Monday to Friday (except for holidays).  The best way to reach us is #sso [RocketChat](https://chat.developer.gov.bc.ca/channel/sso) channel
+
 
 ### Security Reviews
 
